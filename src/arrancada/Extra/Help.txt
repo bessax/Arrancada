@@ -1,0 +1,3 @@
+>>>Arrancada - Help<<<
+
+Este pacote com testes para futuras implementações de Exceptions melhor trabalhadas no projeto Arrancada.
